@@ -21,9 +21,9 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 
 ## My latest projects
 
-### [Calculator](http://https://yakuza16.github.io/Calc/ "Calculator")
-### [Memory Game](http://https://yakuza16.github.io/Memory-Game/ "Memory Game")
-### [SketchSite/SketchBook](http://https://yakuza16.github.io/SketchSite/ "SketchSite/SketchBook")
+### [Calculator](https://yakuza16.github.io/Calc/ "Calculator")
+### [Memory Game](https://yakuza16.github.io/Memory-Game/ "Memory Game")
+### [SketchSite/SketchBook](https://yakuza16.github.io/SketchSite/ "SketchSite/SketchBook")
 ### [Coronavirus -methods of reducing the risk](https://yakuza16.github.io/COVID19-Ways-of-reducing-the-risk/ "Coronavirus -methods of reducing the risk")
 
 
