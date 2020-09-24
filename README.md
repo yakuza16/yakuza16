@@ -6,6 +6,8 @@ I am rail freight forwarder who wants to become a front end developer.
 I **started** my adventure **with programming** at the end of 2019 and during this time I have **learned a lot**, I have **done a lot of projects**. **I am still learning**, I aspire to become a **front end web developer**.
 
 [![](https://img.shields.io/badge/-LINKEDIN-blue)](https://www.linkedin.com/in/marcinsplawinskiprogramistajavascript/ "![](https://img.shields.io/badge/-LINKEDIN-blue)")
+
+![](https://img.shields.io/badge/-GMAIL-orange) marcin.cincin9010@gmail.com
 ------------
 ## Technologies
 
@@ -33,7 +35,7 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 - 👯 I’m looking to collaborate on ... React
 - 🤔 I’m looking for help with ... webpack
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... Send me a message or mail / [![](https://img.shields.io/badge/-LINKEDIN-blue)](https://www.linkedin.com/in/marcinsplawinskiprogramistajavascript/ "![](https://img.shields.io/badge/-LINKEDIN-blue)")
+- 📫 How to reach me: ... Send me a message or mail / [![](https://img.shields.io/badge/-LINKEDIN-blue)](https://www.linkedin.com/in/marcinsplawinskiprogramistajavascript/ "![](https://img.shields.io/badge/-LINKEDIN-blue)")  ![](https://img.shields.io/badge/-GMAIL-orange) marcin.cincin9010@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am rail freight forwarder who wants to become a front end developer
 
