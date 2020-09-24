@@ -21,10 +21,10 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 
 ## My latest projects
 
-### [Calculator](https://yakuza16.github.io/Calc/ "Calculator")   [Link to Repository](https://github.com/yakuza16/Calc "Link to Repository")
-### [Memory Game](https://yakuza16.github.io/Memory-Game/ "Memory Game")   ###[Link to Repository](https://github.com/yakuza16/Memory-Game "Link to Repository")
-### [SketchSite/SketchBook](https://yakuza16.github.io/SketchSite/ "SketchSite/SketchBook")   ###[Link to Repository](https://github.com/yakuza16/SketchSite "Link to Repository")
-### [Coronavirus -methods of reducing the risk](https://yakuza16.github.io/COVID19-Ways-of-reducing-the-risk/ "Coronavirus -methods of reducing the risk")   ###[Link to Repository](https://github.com/yakuza16/COVID19-Ways-of-reducing-the-risk "Link to Repository")
+### [Calculator](https://yakuza16.github.io/Calc/ "Calculator")   ---> [Link to Repository](https://github.com/yakuza16/Calc "Link to Repository")
+### [Memory Game](https://yakuza16.github.io/Memory-Game/ "Memory Game")   --->[Link to Repository](https://github.com/yakuza16/Memory-Game "Link to Repository")
+### [SketchSite/SketchBook](https://yakuza16.github.io/SketchSite/ "SketchSite/SketchBook")   --->[Link to Repository](https://github.com/yakuza16/SketchSite "Link to Repository")
+### [Coronavirus -methods of reducing the risk](https://yakuza16.github.io/COVID19-Ways-of-reducing-the-risk/ "Coronavirus -methods of reducing the risk")   --->[Link to Repository](https://github.com/yakuza16/COVID19-Ways-of-reducing-the-risk "Link to Repository")
 
 
 - 🔭 I’m currently working on ... doing more projects in OOP Javascript
