@@ -24,6 +24,7 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 
 ## My latest projects
 
+### [Pokemon Catalog](https://yakuza16.github.io/Pokemon-catalog/.   "Pokemon Catalog")   --->[Link to Repository](https://github.com/yakuza16/Pokemon-catalog")
 ### [Calculator](https://yakuza16.github.io/Calc/ "Calculator")   ---> [Link to Repository](https://github.com/yakuza16/Calc "Link to Repository")
 ### [Memory Game](https://yakuza16.github.io/Memory-Game/ "Memory Game")   --->[Link to Repository](https://github.com/yakuza16/Memory-Game "Link to Repository")
 ### [SketchSite/SketchBook](https://yakuza16.github.io/SketchSite/ "SketchSite/SketchBook")   --->[Link to Repository](https://github.com/yakuza16/SketchSite "Link to Repository")
