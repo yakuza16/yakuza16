@@ -32,9 +32,9 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 ### [Coronavirus -methods of reducing the risk](https://yakuza16.github.io/COVID19-Ways-of-reducing-the-risk/ "Coronavirus -methods of reducing the risk")   --->[Link to Repository](https://github.com/yakuza16/COVID19-Ways-of-reducing-the-risk "Link to Repository")
 
 
-- 🔭 I’m currently working on ... doing more projects in OOP Javascript
-- 🌱 I’m currently learning ... React and Redux
-- 👯 I’m looking to collaborate on ... React
+- 🔭 I’m currently working on ... doing more projects in OOP Javascript and in VUE
+- 🌱 I’m currently learning ... VUE framework
+- 👯 I’m looking to collaborate on ... React/Vue
 - 🤔 I’m looking for help with ... webpack
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Send me a message or mail / [![](https://img.shields.io/badge/-LINKEDIN-blue)](https://www.linkedin.com/in/marcinsplawinskiprogramistajavascript/ "![](https://img.shields.io/badge/-LINKEDIN-blue)")  ![](https://img.shields.io/badge/-GMAIL-orange) marcin.cincin9010@gmail.com
