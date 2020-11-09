@@ -11,7 +11,7 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 ------------
 ## Technologies
 
-https://img.shields.io/badge/-HTML5-orange?logo=html5
+(https://img.shields.io/badge/-HTML5-orange?logo=html5)
 https://img.shields.io/badge/-CSS3-%231572B6?logo=CSS3
 https://img.shields.io/badge/-JavaScript-%23000?logo=javascript
 
