@@ -11,22 +11,22 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 ------------
 ## Technologies
 
-[![](https://img.shields.io/badge/-HTML5-orange?logo=html5)
-https://img.shields.io/badge/-CSS3-%231572B6?logo=CSS3
-https://img.shields.io/badge/-JavaScript-%23000?logo=javascript
+![](https://img.shields.io/badge/-HTML5-orange?logo=html5)
+![](https://img.shields.io/badge/-CSS3-%231572B6?logo=CSS3)
+![](https://img.shields.io/badge/-JavaScript-%23000?logo=javascript)
 
-https://img.shields.io/badge/-Bootstrap-%23000?logo=bootstrap
-https://img.shields.io/badge/-Sass-%23000?logo=sass
-https://img.shields.io/badge/-Tailwind%20CSS-%23000?logo=tailwind-css
+![](https://img.shields.io/badge/-Bootstrap-%23000?logo=bootstrap)
+![](https://img.shields.io/badge/-Sass-%23000?logo=sass)
+![](https://img.shields.io/badge/-Tailwind%20CSS-%23000?logo=tailwind-css)
 
-https://img.shields.io/badge/-VUE3-%23000?logo=vue.js
-https://img.shields.io/badge/-React-%23000?logo=react
+![](https://img.shields.io/badge/-VUE3-%23000?logo=vue.js)
+![](https://img.shields.io/badge/-React-%23000?logo=react)
 
 
-https://img.shields.io/badge/-Visual%20Studio%20Code-%23000?logo=visual-studio-code
-https://img.shields.io/badge/-Git-%23000?logo=git
-https://img.shields.io/badge/-Adobe%20xD-%23000?logo=adobe-xd
-https://img.shields.io/badge/-Figma-%23000?logo=figma
+![](https://img.shields.io/badge/-Visual%20Studio%20Code-%23000?logo=visual-studio-code)
+![](https://img.shields.io/badge/-Git-%23000?logo=git)
+![](https://img.shields.io/badge/-Adobe%20xD-%23000?logo=adobe-xd)
+![](https://img.shields.io/badge/-Figma-%23000?logo=figma)
 
 
 ------------
