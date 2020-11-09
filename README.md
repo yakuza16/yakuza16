@@ -33,12 +33,12 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 
 ## My latest projects
 
-### [Timer](https://yakuza16.github.io/Timer/      "Timer")   --->[Link to Repository](https://github.com/yakuza16/Timer "Link to Repository")
-### [Pokemon Catalog](https://yakuza16.github.io/Pokemon-catalog/.   "Pokemon Catalog")   --->[Link to Repository](https://github.com/yakuza16/Pokemon-catalog "Link to Repository")
-### [Calculator](https://yakuza16.github.io/Calc/ "Calculator")   ---> [Link to Repository](https://github.com/yakuza16/Calc "Link to Repository")
-### [Memory Game](https://yakuza16.github.io/Memory-Game/ "Memory Game")   --->[Link to Repository](https://github.com/yakuza16/Memory-Game "Link to Repository")
-### [SketchSite/SketchBook](https://yakuza16.github.io/SketchSite/ "SketchSite/SketchBook")   --->[Link to Repository](https://github.com/yakuza16/SketchSite "Link to Repository")
-### [Coronavirus -methods of reducing the risk](https://yakuza16.github.io/COVID19-Ways-of-reducing-the-risk/ "Coronavirus -methods of reducing the risk")   --->[Link to Repository](https://github.com/yakuza16/COVID19-Ways-of-reducing-the-risk "Link to Repository")
+### [Timer](https://yakuza16.github.io/Timer/      "Timer")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/Timer "Link to Repository")
+### [Pokemon Catalog](https://yakuza16.github.io/Pokemon-catalog/.   "Pokemon Catalog")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/Pokemon-catalog "Link to Repository")
+### [Calculator](https://yakuza16.github.io/Calc/ "Calculator")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/Calc "Link to Repository")
+### [Memory Game](https://yakuza16.github.io/Memory-Game/ "Memory Game")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/Memory-Game "Link to Repository")
+### [SketchSite/SketchBook](https://yakuza16.github.io/SketchSite/ "SketchSite/SketchBook")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/SketchSite "Link to Repository")
+### [Coronavirus -methods of reducing the risk](https://yakuza16.github.io/COVID19-Ways-of-reducing-the-risk/ "Coronavirus -methods of reducing the risk")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/COVID19-Ways-of-reducing-the-risk "Link to Repository")
 
 
 - 🔭 I’m currently working on ... doing more projects in OOP Javascript and in VUE
@@ -46,7 +46,7 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 - 👯 I’m looking to collaborate on ... React/Vue
 - 🤔 I’m looking for help with ... webpack
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... Send me a message or mail / [![](https://img.shields.io/badge/-LINKEDIN-blue)](https://www.linkedin.com/in/marcinsplawinskiprogramistajavascript/ "![](https://img.shields.io/badge/-LINKEDIN-blue)")  ![](https://img.shields.io/badge/-GMAIL-orange) marcin.cincin9010@gmail.com
+- 📫 How to reach me: ... Send me a message or mail / [![](https://img.shields.io/badge/-Linkedin-%230077B5?logo=linkedin)](https://www.linkedin.com/in/marcinsplawinskiprogramistajavascript/ "![](https://img.shields.io/badge/-Linkedin-%230077B5?logo=linkedin)")  ![](https://img.shields.io/badge/-Gmail-orange?logo=gmail) marcin.cincin9010@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am rail freight forwarder who wants to become a front end developer
 
