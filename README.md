@@ -30,6 +30,7 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 
 ## My latest projects
 
+### [Hollywood Undead - fansite](https://vigilant-colden-87f5c6.netlify.app/     "Hollywood Undead - fansite")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/hollywood-undead-fan-site "Link to Repository")
 ### [Timer](https://yakuza16.github.io/Timer/      "Timer")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/Timer "Link to Repository")
 ### [Pokemon Catalog](https://yakuza16.github.io/Pokemon-catalog/.   "Pokemon Catalog")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/Pokemon-catalog "Link to Repository")
 ### [Calculator](https://yakuza16.github.io/Calc/ "Calculator")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/Calc "Link to Repository")
