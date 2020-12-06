@@ -17,8 +17,11 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 
 ![](https://img.shields.io/badge/-Sass-%23000?logo=sass)
 ![](https://img.shields.io/badge/-Tailwind%20CSS-%23000?logo=tailwind-css)
+![](https://img.shields.io/badge/-GraphQL-%23000?logo=GraphQL)
 
 ![](https://img.shields.io/badge/-VUE3-%23000?logo=vue.js)
+![](https://img.shields.io/badge/-Gridsome-%23000?logo=gridsome)
+
 ![](https://img.shields.io/badge/-React-%23000?logo=react)
 
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-%23000?logo=visual-studio-code)
