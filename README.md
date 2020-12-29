@@ -5,7 +5,7 @@
 I am railway specialist in an intermodal company, after work i am coding as -  **Front end Developer**.
 I **started** my adventure **with programming** at the end of 2019 and during this time I have **learned a lot**, I have **done a lot of projects**. **I am still learning**, I aspire to become a full time **front end web developer**.
 
-### If you if you have a job offer for me, please contact me
+### If you have any interesting job/work offer, please contact me
 
 [![](https://img.shields.io/badge/-Linkedin-%230077B5?logo=linkedin)](https://www.linkedin.com/in/marcinsplawinskiprogramistajavascript/ "![](https://img.shields.io/badge/-Linkedin-%230077B5?logo=linkedin)")
 
