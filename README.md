@@ -1,9 +1,11 @@
-### Hi there 👋 i am Martin - self motivated aspiring Front-end developer
+### Hi there 👋 i am Martin - self motivated, hard working Front-end developer
 
 ## About me
 
-I am rail freight forwarder who wants to become a front end developer.
-I **started** my adventure **with programming** at the end of 2019 and during this time I have **learned a lot**, I have **done a lot of projects**. **I am still learning**, I aspire to become a **front end web developer**.
+I am railway specialist in an intermodal company, after work i am coding as -  **Front end Developer**.
+I **started** my adventure **with programming** at the end of 2019 and during this time I have **learned a lot**, I have **done a lot of projects**. **I am still learning**, I aspire to become a full time **front end web developer**.
+
+### If you if you have a job offer for me, please contact me
 
 [![](https://img.shields.io/badge/-Linkedin-%230077B5?logo=linkedin)](https://www.linkedin.com/in/marcinsplawinskiprogramistajavascript/ "![](https://img.shields.io/badge/-Linkedin-%230077B5?logo=linkedin)")
 
@@ -28,7 +30,6 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 ![](https://img.shields.io/badge/-Git-%23000?logo=git)
 ![](https://img.shields.io/badge/-Adobe%20xD-%23000?logo=adobe-xd)
 
-
 ------------
 
 ## My latest projects
@@ -43,7 +44,7 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 ### [Coronavirus -methods of reducing the risk](https://yakuza16.github.io/COVID19-Ways-of-reducing-the-risk/ "Coronavirus -methods of reducing the risk")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/COVID19-Ways-of-reducing-the-risk "Link to Repository")
 
 
-- 🔭 I’m currently working on ... doing more projects in OOP Javascript and in VUE
+- 🔭 I’m currently working on ... doing more projects in React / VUE
 - 🌱 I’m currently learning ... VUE framework
 - 👯 I’m looking to collaborate on ... React/Vue
 - 🤔 I’m looking for help with ... webpack
