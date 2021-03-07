@@ -36,7 +36,7 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 
 ## My latest projects
 
-
+### [Elektroniczny list przewozowy](https://elp.netlify.app/     "Aplikacja pozwalająca na stworzenie pociągu - dodanie podstawowych informacji o nadawcy przesyłki oraz odbiorcy. Dodanie wagonów i kontenerów. Oraz wygenerowanie kodu XML który należy skopiować do np. notatnika i zapisać z rozszerzeniem .xml. Plik zaczytuje się do systemu Elektroniczny List Przewozowy co pozwala nadać pociąg")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg) This repository will remain private, but I can make it available for inspection upon your request/ kod aplikacji pozostanie prywatny, ewentualnie mogę go udostępnić dla potencjalnego rekrutera.
 ### [Marcin Spławiński - front end developer buisness site](https://marcinsplawinski.netlify.app/     "Marcin Spławiński - front end developer buisness site")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg) This repository will remain private, but I can make it available for inspection upon your request
 ### [Hollywood Undead - fansite](https://vigilant-colden-87f5c6.netlify.app/     "Hollywood Undead - fansite")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/hollywood-undead-fan-site "Link to Repository")
 ### [Clock](https://yakuza16.github.io/Clock/      "Clock")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/Clock "Link to Repository")
