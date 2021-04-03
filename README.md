@@ -25,6 +25,7 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 
 ![](https://img.shields.io/badge/-VUE3-%23000?logo=vue.js)
 ![](https://img.shields.io/badge/-Gridsome-%23000?logo=gridsome)
+![](https://img.shields.io/badge/-NUXT-%23000?logo=nuxt.js)
 
 ![](https://img.shields.io/badge/-React-%23000?logo=react)
 
