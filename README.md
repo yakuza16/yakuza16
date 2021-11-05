@@ -37,7 +37,7 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 
 ## My latest projects
 
-### [Various API projects](https://various-api.netlify.app/ "Various API projects") ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/Various-API "Link to Repository")
+### [Various API projects](https://various-api.netlify.app/ "Various API projects") ![N|](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/1200px-Antu_arrow-right.svg.png)  [Link to Repository](https://github.com/yakuza16/Various-API "Link to Repository")
 
 ### [Elektroniczny list przewozowy](https://elp.netlify.app/     "Aplikacja pozwalająca na stworzenie pociągu - dodanie podstawowych informacji o nadawcy przesyłki oraz odbiorcy. Dodanie wagonów i kontenerów. Oraz wygenerowanie kodu XML który należy skopiować do np. notatnika i zapisać z rozszerzeniem .xml. Plik zaczytuje się do systemu Elektroniczny List Przewozowy co pozwala nadać pociąg")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg) This repository will remain private, but I can make it available for inspection upon your request/ kod aplikacji pozostanie prywatny, ewentualnie mogę go udostępnić dla potencjalnego rekrutera.
 ### [Marcin Spławiński - front end developer buisness site](https://marcinsplawinski.netlify.app/     "Marcin Spławiński - front end developer buisness site")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg) This repository will remain private, but I can make it available for inspection upon your request
