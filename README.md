@@ -37,18 +37,18 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 
 ## My latest projects
 
-### [Various API projects](https://various-api.netlify.app/ "Various API projects") ![N|](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/1200px-Antu_arrow-right.svg.png)  [Link to Repository](https://github.com/yakuza16/Various-API "Link to Repository")
+### [Various API projects](https://various-api.netlify.app/ "Various API projects") [Link to Repository](https://github.com/yakuza16/Various-API "Link to Repository")
 
-### [Elektroniczny list przewozowy](https://elp.netlify.app/     "Aplikacja pozwalająca na stworzenie pociągu - dodanie podstawowych informacji o nadawcy przesyłki oraz odbiorcy. Dodanie wagonów i kontenerów. Oraz wygenerowanie kodu XML który należy skopiować do np. notatnika i zapisać z rozszerzeniem .xml. Plik zaczytuje się do systemu Elektroniczny List Przewozowy co pozwala nadać pociąg")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg) This repository will remain private, but I can make it available for inspection upon your request/ kod aplikacji pozostanie prywatny, ewentualnie mogę go udostępnić dla potencjalnego rekrutera.
-### [Marcin Spławiński - front end developer buisness site](https://marcinsplawinski.netlify.app/     "Marcin Spławiński - front end developer buisness site")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg) This repository will remain private, but I can make it available for inspection upon your request
-### [Hollywood Undead - fansite](https://vigilant-colden-87f5c6.netlify.app/     "Hollywood Undead - fansite")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/hollywood-undead-fan-site "Link to Repository")
-### [Clock](https://yakuza16.github.io/Clock/      "Clock")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/Clock "Link to Repository")
-### [Timer](https://yakuza16.github.io/Timer/      "Timer")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/Timer "Link to Repository")
-### [Pokemon Catalog](https://yakuza16.github.io/Pokemon-catalog/.   "Pokemon Catalog")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/Pokemon-catalog "Link to Repository")
-### [Calculator](https://yakuza16.github.io/Calc/ "Calculator")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/Calc "Link to Repository")
-### [Memory Game](https://yakuza16.github.io/Memory-Game/ "Memory Game")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/Memory-Game "Link to Repository")
-### [SketchSite/SketchBook](https://yakuza16.github.io/SketchSite/ "SketchSite/SketchBook")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/SketchSite "Link to Repository")
-### [Coronavirus -methods of reducing the risk](https://yakuza16.github.io/COVID19-Ways-of-reducing-the-risk/ "Coronavirus -methods of reducing the risk")   ![N|](https://www.flaticon.com/svg/static/icons/svg/37/37198.svg)  [Link to Repository](https://github.com/yakuza16/COVID19-Ways-of-reducing-the-risk "Link to Repository")
+### [Elektroniczny list przewozowy](https://elp.netlify.app/     "Aplikacja pozwalająca na stworzenie pociągu - dodanie podstawowych informacji o nadawcy przesyłki oraz odbiorcy. Dodanie wagonów i kontenerów. Oraz wygenerowanie kodu XML który należy skopiować do np. notatnika i zapisać z rozszerzeniem .xml. Plik zaczytuje się do systemu Elektroniczny List Przewozowy co pozwala nadać pociąg")  This repository will remain private, but I can make it available for inspection upon your request/ kod aplikacji pozostanie prywatny, ewentualnie mogę go udostępnić dla potencjalnego rekrutera.
+### [Marcin Spławiński - front end developer buisness site](https://marcinsplawinski.netlify.app/     "Marcin Spławiński - front end developer buisness site")  This repository will remain private, but I can make it available for inspection upon your request
+### [Hollywood Undead - fansite](https://vigilant-colden-87f5c6.netlify.app/     "Hollywood Undead - fansite")    [Link to Repository](https://github.com/yakuza16/hollywood-undead-fan-site "Link to Repository")
+### [Clock](https://yakuza16.github.io/Clock/      "Clock")  [Link to Repository](https://github.com/yakuza16/Clock "Link to Repository")
+### [Timer](https://yakuza16.github.io/Timer/      "Timer")  [Link to Repository](https://github.com/yakuza16/Timer "Link to Repository")
+### [Pokemon Catalog](https://yakuza16.github.io/Pokemon-catalog/.   "Pokemon Catalog")  [Link to Repository](https://github.com/yakuza16/Pokemon-catalog "Link to Repository")
+### [Calculator](https://yakuza16.github.io/Calc/ "Calculator")  [Link to Repository](https://github.com/yakuza16/Calc "Link to Repository")
+### [Memory Game](https://yakuza16.github.io/Memory-Game/ "Memory Game")  [Link to Repository](https://github.com/yakuza16/Memory-Game "Link to Repository")
+### [SketchSite/SketchBook](https://yakuza16.github.io/SketchSite/ "SketchSite/SketchBook")  [Link to Repository](https://github.com/yakuza16/SketchSite "Link to Repository")
+### [Coronavirus -methods of reducing the risk](https://yakuza16.github.io/COVID19-Ways-of-reducing-the-risk/ "Coronavirus -methods of reducing the risk")  [Link to Repository](https://github.com/yakuza16/COVID19-Ways-of-reducing-the-risk "Link to Repository")
 
 
 - 🔭 I’m currently working on ... doing more projects in React / VUE
