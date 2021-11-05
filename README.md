@@ -37,7 +37,7 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 
 ## My latest projects
 
-
+### [Opieka grobów](https://czystygrobowiec.pl/     "Strona internetowa firmy zajmującej się opieką nad grobami")  This repository will remain private, but I can make it available for inspection upon your request/ kod aplikacji pozostanie prywatny, ewentualnie mogę go udostępnić dla potencjalnego rekrutera.
 ### [Blacharstwo Radomsko](https://blacharstwo-radomsko.pl/     "Strona internetowa zakładu blacharskiego z Radomska")  This repository will remain private, but I can make it available for inspection upon your request/ kod aplikacji pozostanie prywatny, ewentualnie mogę go udostępnić dla potencjalnego rekrutera.
 ### [Various API projects](https://various-api.netlify.app/ "Various API projects") [Link to Repository](https://github.com/yakuza16/Various-API "Link to Repository")
 ### [Elektroniczny list przewozowy](https://elp.netlify.app/     "Aplikacja pozwalająca na stworzenie pociągu - dodanie podstawowych informacji o nadawcy przesyłki oraz odbiorcy. Dodanie wagonów i kontenerów. Oraz wygenerowanie kodu XML który należy skopiować do np. notatnika i zapisać z rozszerzeniem .xml. Plik zaczytuje się do systemu Elektroniczny List Przewozowy co pozwala nadać pociąg")  This repository will remain private, but I can make it available for inspection upon your request/ kod aplikacji pozostanie prywatny, ewentualnie mogę go udostępnić dla potencjalnego rekrutera.
