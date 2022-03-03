@@ -38,7 +38,7 @@ I **started** my adventure **with programming** at the end of 2019 and during th
 ## My latest projects
 
 
-### [My-App/Site-TEMPLATE](https://my-windicss-template.netlify.app/) Repository will remain private, but I can make it available for inspection upon your request/ kod aplikacji pozostanie prywatny, ewentualnie mogę go udostępnić dla potencjalnego rekrutera.
+### [My-App/Site-TEMPLATE](https://my-windicss-template.netlify.app/ "Prywatna templatka") Repository will remain private, but I can make it available for inspection upon your request/ kod aplikacji pozostanie prywatny, ewentualnie mogę go udostępnić dla potencjalnego rekrutera.
 ### [Opieka grobów](https://czystygrobowiec.pl/     "Strona internetowa firmy zajmującej się opieką nad grobami")  Repository will remain private, but I can make it available for inspection upon your request/ kod aplikacji pozostanie prywatny, ewentualnie mogę go udostępnić dla potencjalnego rekrutera.
 ### [Blacharstwo Radomsko](https://blacharstwo-radomsko.pl/     "Strona internetowa zakładu blacharskiego z Radomska")  Repository will remain private, but I can make it available for inspection upon your request/ kod aplikacji pozostanie prywatny, ewentualnie mogę go udostępnić dla potencjalnego rekrutera.
 ### [Various API projects](https://various-api.netlify.app/ "Various API projects") [Link to Repository](https://github.com/yakuza16/Various-API "Link to Repository")
